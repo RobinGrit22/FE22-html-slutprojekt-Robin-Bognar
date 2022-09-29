@@ -1,0 +1,164 @@
+.about-font-size{
+    font-size:x-large;
+}
+@media screen and (max-width: 992px){
+    .about-font-size{
+        font-size: medium;
+    }
+}
+.tech-background{
+    min-height: 100vh;
+    background-image: url(../images/techbackground.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;   
+}
+@media screen and (max-width: 992px){
+    .tech-background{
+        min-height: 70vh;
+    }
+}
+
+
+.tech-font{
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.7rem;
+}
+@media screen and (max-width: 880px){
+    .tech-font{
+        font-size: 1.3rem;
+    }
+    
+}
+.tech-background-section{
+    background-color: #212529;   
+}
+.tech-background-section2{
+    background-color: #3c444b;
+}
+.tech-background-section3{
+    background-color: #262b30;
+}
+.cat-background{
+    min-height: 100vh;
+    background-image: url(../images/catbackground.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;  
+}
+@media screen and (max-width: 992px){
+    .cat-background{
+        min-height: 70vh;
+    }
+}
+.cat-font{
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.7rem;
+}
+@media screen and (max-width: 880px){
+    .cat-font{
+        font-size: 1.3rem;
+    }
+}
+.cat-background-section{
+    background-color: rgb(173, 173, 152);
+}
+
+.cat-background-section2{
+    background-color: rgb(187, 187, 162);
+}
+.cat-background-section3{
+    background-color: rgb(173, 173, 152);
+}
+.dog-background{
+    min-height: 100vh;
+    background-image: url(../images/dogbackground.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative; 
+}
+@media screen and (max-width: 992px){
+    .dog-background{
+        min-height: 70vh;
+    }
+}
+.dog-font{
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.7rem;
+}
+@media screen and (max-width: 880px){
+    .dog-font{
+        font-size: 1.3rem;
+    }
+}
+
+.dog-background-section{
+    background-color: rgb(141, 83, 114);
+}
+.dog-background-section2{
+    background-color: rgb(134, 112, 124);
+}
+.dog-background-section3{
+    background-color: rgb(167, 148, 157);
+}
+.bear-background{
+    min-height: 100vh;
+    background-image: url(../images/bearbackground.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative; 
+}
+@media screen and (max-width: 992px){
+    .bear-background{
+        min-height: 70vh;
+    }
+}
+.bear-font{
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.7rem;
+}
+@media screen and (max-width: 880px){
+    .bear-font{
+        font-size: 1.3rem;
+    }
+}
+
+.bear-background-section{
+    background-color:rgb(131, 70, 70);
+}
+.bear-background-section2{
+    background-color:rgb(85, 56, 56);
+}
+.bear-background-section3{
+    background-color:rgb(65, 44, 44);
+}
+
+
+
+.projects-background{
+    background-color: #262b30;
+}
+.carousel-item img{
+    height: 90vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;  
+}
+@media screen and (max-width: 880px)
+{
+    .carousel-item img{
+        height: 70vh;
+    }
+}
+@media screen and (max-width: 450px)
+{
+    .carousel-item img{
+        height: 50vh;
+    }
+}
+
