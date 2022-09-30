@@ -143,22 +143,10 @@
     background-color: #262b30;
 }
 .carousel-item img{
-    height: 90vh;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     position: relative;  
 }
-@media screen and (max-width: 880px)
-{
-    .carousel-item img{
-        height: 70vh;
-    }
-}
-@media screen and (max-width: 450px)
-{
-    .carousel-item img{
-        height: 50vh;
-    }
-}
+
 
